@@ -29,11 +29,12 @@ const SearchContainer = styled.div`
   align-items: center;
   gap: 1rem;
   flex-wrap: wrap;
-  width: 50%;
+  width: 80%;
   padding-top: 50px;
-
+  
   input {
-    border: 1px solid #eee;
+    /* border: 1px solid #eee; */
+    border: 0.4px solid #282c34;
     height: 30px;
     padding: 2px 10px;
     font-size: 15px;

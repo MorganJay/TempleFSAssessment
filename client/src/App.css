@@ -10,8 +10,9 @@
 }
 
 .App-header {
-  background-image: url("https://owlbot.info/static/owlbot/img/mobile2.png");
+  /* background-image: url("https://owlbot.info/static/owlbot/img/mobile2.png"); */
   background-repeat: no-repeat;
+  background-color: white;
   background-position: center center;
   width: 30%;
   height: 500px;
